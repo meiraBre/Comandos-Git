@@ -1,0 +1,4 @@
+Comandos Git para testar:
+- Git init: inicializa um repositório
+- Git add: adiciona todos os arquivos do diretório atual
+- Git commit -m "": Adiciona uma mensagem a alteração
