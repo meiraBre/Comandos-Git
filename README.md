@@ -11,3 +11,7 @@ O Git é um sistema de controle de versão distribuído usado para rastrear alte
 - Git pull: Puxa as alterações do repositório remoto
 - Git branch nomeDaBranch: Cria uma nova branch
 - Git branch: Lista as branches
+- Git checkout nomeDaBranch: troca de branch
+
+  ## Conteúdos revisados durante o curso AWS da Proz Educação
+  Gratidão por essa oportunidade e por minha familia que sempre me apoia!❤️
